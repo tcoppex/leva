@@ -1,5 +1,12 @@
 # @leva-ui/plugin-spring
 
+## 1.0.0
+
+### Patch Changes
+
+- Updated dependencies [52951f0]
+  - leva@0.10.0
+
 ## 0.9.18
 
 ### Patch Changes

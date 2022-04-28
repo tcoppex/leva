@@ -1,5 +1,11 @@
 # leva
 
+## 0.10.0
+
+### Minor Changes
+
+- 52951f0: upgrades stitches version to 1.2.8
+
 ## 0.9.23
 
 ### Patch Changes
